@@ -1,1 +1,1 @@
-a = 3
+print("Hestik calon istriku cantik banget")
